@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm files
+.idea/
+
+# Saved program data
+bse_progress_state.json
+
+# OS files
+.DS_Store
+Thumbs.db
